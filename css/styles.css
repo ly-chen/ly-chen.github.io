@@ -1,0 +1,91 @@
+body {
+    text-align: center;
+    border-bottom: 3px solid #de6600;
+    border-top: 3px solid #de6600
+}
+
+hr {
+    border-style: solid none none;
+    border-width: 4px;
+    border-color: #007a7a;
+}
+
+h1 {
+    color: #003f5a;
+    font-family: 'Comfortaa', cursive;
+    font-size: 51px;
+}
+
+p {
+    color: #003f5a;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+label {
+    color: #003f5a;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+strong {
+    font-weight: bold;
+    color: #003f5a;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+nav {
+    display: block;
+    margin-bottom: 3em;
+    font-size: 26px;
+    font-family: 'Comfortaa', cursive;
+}
+
+img {
+    border: 4px solid #ff9248;
+    float: left;
+    width: 240px;
+    border-radius: 150px;
+    margin-right: 30px;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #007a7a
+}
+
+textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #007a7a
+}
+
+a {
+    color: #007a7a
+}
+
+a:visited {
+    color: #007a7a
+}
+
+a:hover {
+    color: #de6600
+}
+
+#main {
+    width: 650px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+#bio {
+    overflow: hidden;
+    margin-bottom: 50px;
+}
